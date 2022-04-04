@@ -3,26 +3,29 @@
       "id": 1,
      
       "name": "John Michael",
+"review":"Best product,I feel really good when i use their products. You can use this product",
+
       "ratings": 4.2,
      
-      "img": "https://i.ibb.co/dLfty5h/user1.jpg"
+      "img": "https://i.ibb.co/6wb1zZr/user12.jpg"
      
     }, 
     {
       "id": 2,
      
       "name": "Khalid Hasan",
+      "review":"Their product is so good .You can try!",
     
       "ratings": 4.9,
      
-      "img": "https://i.ibb.co/ySD2pWd/user2.png"
+      "img": "https://i.ibb.co/mJzYbLg/user22.png"
      
     }, 
     {
       "id": 3,
      
       "name": "Sadaf Rahman",
-    
+      "review":"One of the best fruits provider in the world.You can use their authentic products.",
       "ratings": 4.2,
      
       "img": "https://i.ibb.co/Jr5fzhB/user3.jpg"
@@ -32,6 +35,7 @@
       "id": 4,
      
       "name": "Catherine",
+      "review":"I have great experience when i am using their products.They provide fresh and high quality products.",
         "ratings": 4.5,
      
       "img": "https://i.ibb.co/nC2StBx/user4.jpg"
@@ -41,7 +45,7 @@
       "id": 5,
      
       "name": "Shakib Al Hasan",
-      
+      "review":"If you want to try some best products,You can use their products.",
     
       "ratings": 4.7,
      
@@ -52,6 +56,8 @@
       "id": 6,
      
       "name": "Mitchel John",
+      "review":"Their products are so good.You can buy their products.Best Quality products!",
+      "ratings":4.9,
      
            "img": "https://i.ibb.co/6HZyKDs/user6.jpg"
      
