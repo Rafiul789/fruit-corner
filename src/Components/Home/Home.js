@@ -15,11 +15,18 @@ const Home = () => {
 
             
         </div>
-        <div>  <h1  className='text-4xl text-blue-500  text-center  my-4'>  Customer Reviews(3)</h1>  
+        <div>  <h1  className='text-4xl text-blue-600  text-center  my-4'>  Customer Reviews(3)</h1>  
         
         <div  className="grid grid-cols-3 gap-2">  {
-            reviews.slice(0,3).map(review =>  <Review key={review.id} review={review}></Review> )}   </div>
+            reviews.slice(0,3).map(review =>  <Review key={review.id} review={review}></Review> )} 
+            
+            
+              </div>  
          </div>
+
+         <div   className=" flex items-center">  <button className='  my-4  py-2 px-4 bg-blue-500 text-white font-semibold rounded-lg shadow-md hover:bg-blue-700'>Show All Reviews</button>  </div>
+       
+
         </>
     );
 };
