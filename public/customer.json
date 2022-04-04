@@ -1,0 +1,58 @@
+[
+    {
+      "id": 1,
+     
+      "name": "John Michael",
+      "ratings": 4.2,
+     
+      "img": "https://i.ibb.co/dLfty5h/user1.jpg"
+     
+    }, 
+    {
+      "id": 2,
+     
+      "name": "Khalid Hasan",
+    
+      "ratings": 4.9,
+     
+      "img": "https://i.ibb.co/ySD2pWd/user2.png"
+     
+    }, 
+    {
+      "id": 3,
+     
+      "name": "Sadaf Rahman",
+    
+      "ratings": 4.2,
+     
+      "img": "https://i.ibb.co/Jr5fzhB/user3.jpg"
+     
+    }, 
+    {
+      "id": 4,
+     
+      "name": "Catherine",
+        "ratings": 4.5,
+     
+      "img": "https://i.ibb.co/nC2StBx/user4.jpg"
+     
+    }, 
+    {
+      "id": 5,
+     
+      "name": "Shakib Al Hasan",
+      
+    
+      "ratings": 4.7,
+     
+      "img": "https://i.ibb.co/W0ZJq8R/user5.jpg"
+     
+    }, 
+    {
+      "id": 6,
+     
+      "name": "Mitchel John",
+     
+           "img": "https://i.ibb.co/6HZyKDs/user6.jpg"
+     
+    }]
