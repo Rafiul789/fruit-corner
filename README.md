@@ -1,7 +1,7 @@
 
 # project:Fruit Corner
 
-##  Site Link : 
+##  Site Link :   https://fruit-corner34.netlify.app/
 
 # Description about fruit corner
 
