@@ -1,9 +1,16 @@
 import React from 'react';
+import { useNavigate } from 'react-router-dom';
 import CustomerReview from '../../Hooks/CustomerReview';
 import Review from '../Review/Review';
 import image from './fruits1.png'
 
 const Home = () => {
+
+    const navigate=useNavigate()
+
+    const allReview= () => {
+        navigate('/reviews');
+    }
 
     const [reviews]=CustomerReview()
     return (
@@ -24,7 +31,7 @@ const Home = () => {
               </div>  
          </div>
 
-         <div   className=" flex items-center">  <button className='  my-4  py-2 px-4 bg-blue-500 text-white font-semibold rounded-lg shadow-md hover:bg-blue-700'>Show All Reviews</button>  </div>
+         <div     className=" flex items-center">  <button onClick={allReview}   className='  my-4  py-2 px-4 bg-blue-500 text-white font-semibold rounded-lg shadow-md hover:bg-blue-700'>Show All Reviews</button>  </div>
        
 
         </>
